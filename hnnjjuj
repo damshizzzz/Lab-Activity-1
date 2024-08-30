@@ -8,21 +8,30 @@
 		<meta name="keywords" content="Lab Exercise 1">
 		<meta name="date-submitted" content="30-08-2024">
 	</head>
+	
 	<body>
+	
 	    <div>
-		     <h1>My Dear Farm<h1/>
-			 <p>My Dear Farm is game where you can grow plant and trees. This game also have cute characters that you can name yourself with. If the plants and trees are fully grown, you can actually harvest them and get 1 coin per plant and 2 coins per trees. You can receive rewards by simply checking in. The rewards vary differently, you can get diamonds, house appliances, new plants, or new house designs. 
-			 </p>
+		
+		    <h1>My Dear Farm</h1>
+			<p>My Dear Farm is game where you can grow plant and trees. 
+			 This game also have cute characters that you can name yourself with. 
+			 If the plants and trees are fully grown, you can actually harvest them 
+			 and get 1 coin per plant and 2 coins per trees. You can receive rewards 
+			 by simply checking in. The rewards vary differently, you can get diamonds,
+			 house appliances, new plants, or new house designs.</p>
 		</div>
 			 
-			 <span> 
-			 <h3>5 reasons why this game is my favorite.</span>
-			 <ul>
-				<li>It is full of colors and vibrant.</li>
-				<li>You can </li>
-				<li></li>
-				<li></li>
-				<li></li>
-	</body>
+			<span> 
+			<h3>5 reasons why this game is my favorite:</h3>
+			<ul>
+			   <li>It is full of colors and vibrant.</li>
+			   <li>You can sell your harvest.</li>
+		       <li>It is in a rural area setting which is serene.</li>
+			   <li>You can have animals.</li>
+			   <li>There is a trading vehicle where you can sell your appliances that was rewarded to you.</li>
+			</ul>
+			</span>
+			
+			<p>Copyright &copy; Aleah Mae G. Oronos 9-Lithium. All right reserved.</p>
 </html>
-	
